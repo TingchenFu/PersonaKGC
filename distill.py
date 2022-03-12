@@ -8,15 +8,14 @@ import numpy as np
 import math
 import logging
 import random
-from torch.cuda import check_error
 from tqdm import tqdm
 from str2bool import str2bool
 import itertools
 from datetime import datetime
 import torch.nn as nn
 
-from dataset import PersonaDataset
-from batcher import PersonaBatcher
+from dataset.persona_dataset import PersonaDataset
+from batcher.persona_batcher import PersonaBatcher
 from metric import f1_metric
 from transformers import BertForSequenceClassification
 from transformers import BertModel

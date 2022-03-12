@@ -21,7 +21,7 @@ import torch.nn as nn
 from transformers.utils import dummy_flax_objects
 from transformers.utils.dummy_pt_objects import BertModel
 from metric import f1_metric
-from batcher import PersonaBatcher
+from batcher.persona_batcher import PersonaBatcher
 from transformers import BertForSequenceClassification
 from transformers import BertModel
 from transformers import BertConfig

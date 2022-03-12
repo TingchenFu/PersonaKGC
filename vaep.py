@@ -10,8 +10,8 @@ import numpy as np
 import math
 import logging
 import random
-from dataset import PersonaDataset
-from batcher import PersonaBatcher
+from dataset.persona_dataset import PersonaDataset
+from batcher.persona_batcher import PersonaBatcher
 from tqdm import tqdm
 from str2bool import str2bool
 import itertools
