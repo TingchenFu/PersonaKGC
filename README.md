@@ -9,7 +9,7 @@ All requirements can be found in `requirements.txt`. You can install all require
 
 ### Prepare for the dataset
 
-Please contact the author by lucas.futingchen@gmail.com to obtain a copy of our dataset
+Due to some issues, please directly contact the author if you want a copy of our dataset.
 
 Some statistics for the dataset:
 
