@@ -1,6 +1,7 @@
 ## Personalized Knowledge-grounded Dialogue 
 
-This repository contains the code for our paper 
+This repository contains the code for our paper _There Are a Thousand Hamlets in a Thousand People's Eyes: \\
+Enhancing Knowledge-grounded Dialogue with Personal Memory_
 
 ### Set up
 
